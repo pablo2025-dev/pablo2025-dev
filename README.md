@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pablo2025-dev
 - 👀 I’m interested in data, finance and code
 - 🌱 I’m currently learning C/C++ and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on C/C++ and Python projets
 - 📫 Let’s connect: mendespablo23@hotmail.com
 
 <!---
